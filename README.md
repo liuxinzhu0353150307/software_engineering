@@ -1,1 +1,7 @@
-# software_engineering
+# 软件工程实践
+
+第3组项目地址为https://github.com/YuBoyang0321151606/chuochuoyouyu
+
+## 需求说明书
+在需求说明书中，负责第六章用户使用说明的内容。
+我所写的第六章内容已放在本仓库的RA_part6.md文档中，并把我所写的内容整合到了整个小组的需求说明文档中。
